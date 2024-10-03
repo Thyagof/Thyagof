@@ -5,6 +5,8 @@
   <br>- Trilingual - Portuguese, English, Spanish 
 </p>
 
+<h3><a href="https://github.com/Thyagof/Portfolio/tree/main">My portfolio</a></h3>
+
 <h2 align="left">Techs</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript logo"  />
