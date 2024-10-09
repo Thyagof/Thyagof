@@ -5,7 +5,7 @@
   <br>- Trilingual - Portuguese, English, Spanish 
 </p>
 
-<h3><a href="https://github.com/Thyagof/Portfolio/tree/main">My portfolio</a></h3>
+<h3><a href="https://github.com/Thyagof/Portfolio/blob/main/README-EN.md">My portfolio - EN-US</a> | <a href="https://github.com/Thyagof/Portfolio/tree/main">Meu portfólio - PT-BR</a></h3>
 
 <h2 align="left">Techs</h2>
 <div align="left">
