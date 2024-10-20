@@ -13,6 +13,8 @@
   <img/>
   <img src="https://skillicons.dev/icons?i=py" alt="python logo"  />
   <img/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java logo"  />
+  <img/>
   <img src="https://skillicons.dev/icons?i=html" alt="html logo"  />
   <img/>
   <img src="https://skillicons.dev/icons?i=css" alt="css logo"  />
@@ -20,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
   <img/>
   <img src="https://skillicons.dev/icons?i=cypress&theme=light" alt="cypress logo"  />
+  <img/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium logo"  />
   <img/>
   <img src="https://skillicons.dev/icons?i=postman"alt="postman logo"  />
 </div>
