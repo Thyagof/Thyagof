@@ -1,6 +1,6 @@
-<h2 align="left">About me</h2>
-<p align="left">- I am a tech enthusiast
-  <br>- QA - <a href="https://www.credly.com/badges/f2729948-b129-4e5e-abbe-f7f3d8e5933a/public_url">ISTQB Certified</a>
+<h2 align="left">Hey there, my name is Thyago 👋</h2>
+<p align="left">- QA Analyst with experience in development and test automation, passionate about technology and constantly seeking to enhance my skills.
+  <br>- <a href="https://www.credly.com/badges/f2729948-b129-4e5e-abbe-f7f3d8e5933a/public_url">ISTQB Certified</a>
   <br>- Gamer by hobby :joystick: 
   <br>- Trilingual - Portuguese, English, Spanish 
 </p>
